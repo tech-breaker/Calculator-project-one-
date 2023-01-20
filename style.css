@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #FFDD00;
+  }
+  
+  .button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: #503cd1;
+    color: rgb(255, 255, 255);
+    
+  }
+  
+  button:hover {
+    background-color: rgb(61, 43, 184);
+  }
+  
+  .row{
+    padding: 4px;
+    margin:3px 0;
+  }
+  .heading{
+    color: #000080;
+    size: 3cm;
+    
+  }
